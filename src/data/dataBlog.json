@@ -1,0 +1,37 @@
+{
+    "dataBlog":[
+    {
+        "id": "1",
+        "title": "Make Homemade Hot Chocolate",
+        "image": "/imgs/pexels-photo-3309748.jpeg",
+        "body": "I’ve tested all the different ways to make Homemade Hot Chocolate and settled on this method as the best. It’s rich, creamy, and easy to make, with intense chocolate flavor. Garnish with whipped cream or marshmallows for a cold weather treat!",
+        "info": "Heat up your whole milk in a small saucepan, and if you’d like, add a smidge of sugar. If you do not wish to use milk for dietary reasons, I recommend swapping in coconut milk, soy milk, “milk” made from tree nuts, or the non-dairy milk of your choice. While hot water will technically work, it adds no flavor at all which is slightly inferior to the non-dairy options. Bring the milk to a scalding temperature, which is about 180 degrees F, over medium heat. When the milk is properly hot, turn off the heat, and add melted bittersweet chocolate straight into the milk (just microwave the chopped chocolate in 30 second intervals, stirring after each time, until melted).",
+        "imgs": {
+            "1":"/imgs/pexels-photo-5464634.jpeg", 
+            "2":"/imgs/pexels-photo-5702734.jpeg"
+        }
+    },
+    {
+        "id": "2",
+        "title": "Play secret Santa",
+        "body": "If you have a large family or group of friends, Secret Santa is a perfect way for gift giving that doesn't break the bank. Most games set a spending limit so that you can find cheap Christmas gifts or DIY Christmas gifts that are thoughtful and tailored to the person whose name you picked.",
+        "image": "/imgs/pexels-photo-6194087.jpeg",
+        "info": "The basic concept of the Secret Santa game is simple. All of the participants’ names are placed into a hat, box, etc. and mixed up. Each person then chooses one name from the box, but doesn’t tell anyone which name was picked. He/she is now responsible for buying a gift for the person selected. When the Secret Santa wraps his/her gift, he/she should label it with the recipient’s name but doesn’t indicate whom the present is from. (Remember, most of the fun is in the secrecy.) All the gifts are then placed in a general area for opening at a designated time. When the gift-giving time arrives, each recipient finds his/her gift and must guess who their Secret Santa is. If they can’t guess, their Secret Santa eventually confesses." ,
+        "imgs": {
+            "1":"/imgs/pexels-photo-3264663.jpeg", 
+            "2":"/imgs/pexels-photo-3264665.jpeg"
+        }
+    },
+    {
+        "id": "3",
+        "title": "Make Paper Snowflakes",
+        "body": "Making paper snowflakes is one of those activities for the whole family. You can make some to hang on the tree, decorate presents with others and even stick a few on the windows of your home for the neighbors to see.",
+        "image": "/imgs/pexels-photo-752382.jpeg",
+        "info": "Step in from the winter chill and sing the night away at a festive concert this Christmas. With carol services and choirs performing at many of our places, you’ll find lots of ways to get in the Christmas spirit at these merry events near you.",
+        "imgs": {
+            "1":"/imgs/17-Must-watch-All-Time-Favorite-Christmas-Movies-min.jpg", 
+            "2":"/imgs/pexels-photo-6149051.jpeg"
+        }
+    }
+    
+]}
