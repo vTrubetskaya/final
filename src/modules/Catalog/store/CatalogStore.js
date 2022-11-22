@@ -3,10 +3,9 @@ import { makeAutoObservable, runInAction } from "mobx";
 class CatalogStore {
     categories = undefined;
     categoryIndex = 0;
-    productsByCategory = undefined;
+    products = undefined;
     isProductsLoading = false;
     isCategoriesLoading = false;
-    products = [];
 
     constructor(){
         makeAutoObservable(this);
@@ -19,20 +18,21 @@ class CatalogStore {
     loadData = async () => {
         const response = await fetch(`http://localhost:3000/data`);
         const json = await response.json();
+        console.log(json)
         runInAction(() => {            
             this.products = [...json];
-            console.log(this.products)
             this.isProductsLoading = false;
         });        
     }
 
     loadCategory = async(category) => {
         this.isProductsLoading = true;
-        const response = await fetch(`https://fakestoreapi.com/products/category/${category}`);
-        const json = await response.json();
+        const response = await fetch(`http://localhost:3000/data/category/${category}`);
+        const json = await response.json();        
+        console.log(json)
 
         runInAction(() => {            
-            this.productsByCategory = [...json];
+            this.products = [...json];
             this.isProductsLoading = false;
         });
     }
@@ -42,7 +42,7 @@ class CatalogStore {
         this.isCategoriesLoading = true;
 
         try {
-            const response = await fetch('https://fakestoreapi.com/products/categories');
+            const response = await fetch('http://localhost:3000/categories');
 
             if(response.status >= 400){
                 throw new Error(`Response Error: ${response.statusText}`)

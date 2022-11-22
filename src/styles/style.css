@@ -345,7 +345,7 @@ button:hover {
 }
 
 .post__img {
-    height: 270px;
+    height: 300px;
     margin-bottom: 20px;
 }
 
@@ -456,8 +456,13 @@ button:hover {
     gap: 15%;
 }
 
+.product__imgs {
+    display: flex;
+    gap: 30px;
+}
+
 .product__img {
-    width: 320px;
+    width: 250px;
     height: 100%;
 }
 

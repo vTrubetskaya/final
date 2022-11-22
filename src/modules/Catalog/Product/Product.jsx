@@ -11,7 +11,7 @@ export const Product = observer(() => {
     const { productId } = useParams();
     const [productStore] = useState(new ProductStore());
     const { productData, isProductLoading, loadProduct } = productStore;
-    const { title, image, price, description, id } = productData;    
+    const { title, imgs, price, description, id } = productData;    
     const {addToCart} = cartStore;
 
     const handleClick = () => {
@@ -30,7 +30,10 @@ export const Product = observer(() => {
                                     <Spin />
                                 </div>}
             {!isProductLoading && <div className="product__wrapper">
-                <Image className="product__img" src={image} alt={title} />
+                <div className="product__imgs">
+                    <Image className="product__img" src={imgs[1]} alt={title} />
+                    <Image className="product__img" src={imgs[2]} alt={title} />
+                </div>
                 <div className="product__info">
                     <h1 className="product__title">{title}</h1>
                     <p className="product__description">{description}</p>

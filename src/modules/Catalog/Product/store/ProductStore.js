@@ -11,8 +11,9 @@ export class ProductStore {
 
     loadProduct = async (productId) => {
         this.isProductLoading = true;
-        try {
-            const response = await fetch(`https://fakestoreapi.com/products/${productId}`);
+
+            const response = await fetch(`http://localhost:3000/data/${productId}`);
+            console.log(productId)
 
             if(response.status >= 400){
                 notification.error({
@@ -26,11 +27,5 @@ export class ProductStore {
                 this.productData = {...data};
                 this.isProductLoading = false;
             })
-
-        } catch (e) {
-            //
-        } finally {
-            //
-        }
     }
 }

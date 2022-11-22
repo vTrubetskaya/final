@@ -6,7 +6,7 @@ import React from 'react';
 import { CatalogProductCard } from "./components/CatalogProductCard";
 
 export const Catalog = observer(() => {
-    const { categories, loadData, loadCategories, categoryIndex, setCategory, productsByCategory, loadCategory, isProductsLoading, isCategoriesLoading, products } = catalogStore;
+    const { categories, loadData, loadCategories, categoryIndex, setCategory, products, loadCategory, isProductsLoading, isCategoriesLoading } = catalogStore;
 
     useEffect(()=>{
         loadCategories();
@@ -34,9 +34,9 @@ export const Catalog = observer(() => {
                                             <Spin />
                                         </div>}
 
-                {!isProductsLoading && productsByCategory && 
+                {!isProductsLoading && products && 
                     <div className="product__cards">
-                        {productsByCategory.map((item, index) => <CatalogProductCard key={index} productCard={item} />)}
+                        {products.map((item, index) => <CatalogProductCard key={index} productCard={item} />)}
                     </div>                
                 }
             </div>

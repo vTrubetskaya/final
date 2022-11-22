@@ -8,7 +8,6 @@ import React from 'react';
 export const Blog = observer(() => {
 
     const {posts, loadPosts, loading} = blogStore;
-    console.log(posts)
 
     useEffect(()=>{
         loadPosts();

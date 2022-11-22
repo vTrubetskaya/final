@@ -34,7 +34,7 @@ export const Post = observer(() => {
                         <img className="post__img" src={post.imgs[1]} alt={post.title} />
                         <img className="post__img" src={post.imgs[2]} alt={post.title} />
                     </div>
-                    <p className="post__content">{post.info}</p>
+                    <p className="post__content" dangerouslySetInnerHTML={{__html: post.info }}></p>
                 </div>
             </div>
             }

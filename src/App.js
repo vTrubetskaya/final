@@ -8,6 +8,7 @@ import { CatalogApp} from "./modules/Catalog/CatalogApp"
 import { Footer } from "./components/Footer";
 import { AboutUs } from "./modules/AboutUs/AboutUs";
 import { ContactUs } from "./modules/ContactUs/ContactUs";
+import { TreesCatalogApp} from "./modules/TreesCatalog/TreesCatalogApp";
 
 function App() {
   
@@ -20,6 +21,7 @@ function App() {
               <Route index element={<HomePage />}></Route>
               <Route path="blog" element={<Blog />}></Route>
               <Route path="blog/:id" element={<Post />}></Route>    
+              <Route path="treesCatalog/*" element={<TreesCatalogApp />}></Route>
               <Route path="cart" element={<Cart />}></Route>  
               <Route path="catalog/*" element={<CatalogApp />}></Route> 
               <Route path="about_us" element={<AboutUs />}></Route>     
