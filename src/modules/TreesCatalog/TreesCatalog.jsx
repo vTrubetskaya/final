@@ -20,11 +20,11 @@ export const TreesCatalog = observer(() => {
                                             <Spin />
                                         </div>}
 
-                {/* {!isProductsLoading && 
+                {!isProductsLoading && products && 
                     <div className="product__cards">
                         {products.map((item, index) => <CatalogProductCard key={index} productCard={item} />)}
                     </div>                
-                } */}
+                }
             </div>
             
 

@@ -13,7 +13,6 @@ export class ProductStore {
         this.isProductLoading = true;
 
             const response = await fetch(`http://localhost:3000/data/${productId}`);
-            console.log(productId)
 
             if(response.status >= 400){
                 notification.error({

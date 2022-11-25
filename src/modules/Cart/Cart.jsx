@@ -5,7 +5,7 @@ import { Modal} from "../../components/Modal";
 import { useState } from "react";
 
 export const Cart = observer(() => {
-    const {cart, deleteCartItem, totalPrice} = cartStore;   
+    const {cart, deleteCartItem, totalPrice, deleteAll} = cartStore;   
     const [visible, setVisible] = useState(false);
 
     const openModal = () => {
@@ -14,6 +14,10 @@ export const Cart = observer(() => {
 
     const handleModalClose = () => {
         setVisible(false);
+    }
+
+    const delItems = () => {
+        deleteAll();
     }
       
     return (
@@ -29,7 +33,7 @@ export const Cart = observer(() => {
                 <div className="cart__total__info">
                     <h2 className="cart__total__title">Total: ${totalPrice} </h2>
                     <button className="cart__total__btn" onClick={openModal}>Pay your order</button>
-                    {visible && <Modal onClose={handleModalClose} content={<h2 className="modal__text">Thank you for the purchase.</h2>} button={<span>Go back to cart</span>}/>}                
+                    {visible && <Modal onClose={handleModalClose} content={<h2 className="modal__text">Thank you for the purchase.</h2>} button={<span onClick={delItems}>Pay now</span>}/>}                
                 </div>
             </div></div>}
         </div>              

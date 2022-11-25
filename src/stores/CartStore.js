@@ -41,6 +41,10 @@ class CartStore {
         this.cart = this.cart.filter(({id}) => id !== cartItemId);
         localStorage.setItem('cart', JSON.stringify(this.cart));
     }
+
+    deleteAll () {
+        this.cart = [];
+    }
 }
 
 const cartStore = new CartStore();

@@ -14,25 +14,14 @@ class CatalogStore {
     setCategory = (index) => {
         this.categoryIndex = index;
     }
-    
-    loadData = async () => {
-        const response = await fetch(`http://localhost:3000/data`);
-        const json = await response.json();
-        console.log(json)
-        runInAction(() => {            
-            this.products = [...json];
-            this.isProductsLoading = false;
-        });        
-    }
 
     loadCategory = async(category) => {
         this.isProductsLoading = true;
-        const response = await fetch(`http://localhost:3000/data/category/${category}`);
-        const json = await response.json();        
-        console.log(json)
+        const response = await fetch(`http://localhost:3000/category/${category}`);
+        const json = await response.json();    
 
         runInAction(() => {            
-            this.products = [...json];
+            this.products = [...json.products];
             this.isProductsLoading = false;
         });
     }

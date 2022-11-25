@@ -1,8 +1,10 @@
 import { Link } from "react-router-dom";
+import { TImer } from "./components/Timer";
 import { ToBlog } from "./components/ToBlog";
 import { ToTree } from "./components/ToTree"
 
 export const HomePage = () => {
+    
     return (
         <div>
             <div className="homepage__logo">      
@@ -14,7 +16,9 @@ export const HomePage = () => {
                     </Link>
                 </div>
             </div> 
-            <div className="homepage__divider"></div>
+            <div className="homepage__divider"></div>            
+            <TImer date={new Date('25 Dec 2022 00:00:00')}/>
+            <div className="homepage__divider"></div> 
             <ToTree />
             <ToBlog />
         </div>

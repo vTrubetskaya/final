@@ -9,6 +9,7 @@ import { Footer } from "./components/Footer";
 import { AboutUs } from "./modules/AboutUs/AboutUs";
 import { ContactUs } from "./modules/ContactUs/ContactUs";
 import { TreesCatalogApp} from "./modules/TreesCatalog/TreesCatalogApp";
+import { ScrollUp } from "./components/ScrollUp/ScrollUp";
 
 function App() {
   
@@ -30,6 +31,7 @@ function App() {
           </Routes>
         </div>
       </div>
+      <ScrollUp/>
       <Footer/>
     </div>
   );
