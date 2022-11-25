@@ -1,0 +1,102 @@
+@media (max-width: 1025px) {    
+    .header__nav__links {
+        gap: 8px;
+    }
+    
+    .header__nav__link {
+        font-size: 12px;
+        letter-spacing: 1.5px;
+        padding: 12px 15px;
+    }
+        /* ------------------------------ HomePage ------------------------------ */
+    .homepage__logo {
+        height: 380px;
+        background-image: linear-gradient(to right, rgba(238, 238, 238, 0) 40%, rgb(169, 2, 2) 62%, rgb(169, 2, 2) 50%, rgb(169, 2, 2) 40%),
+        url("../../public/imgs/Снимок экрана 2022-11-02 1847161.png");  
+    }
+    
+    .homepage__toTree__img,
+    .homepage__toBlog__img {
+        height: 330px;
+    }
+    
+    .homepage__logo__img {
+        height: 100px;
+    } 
+    
+    .homepage__logo__info,
+    .homepage__toTree__info,
+    .homepage__toBlog__info {
+        font-size: 16px;
+    }
+    .homepage__toTree__box,
+    .homepage__toBlog__box {
+        width: 55%;
+    }
+    
+    .timer {
+        height: 220px;
+    }
+    
+    .timer__title {
+        font-size: 34px;
+    }
+    
+    .timer__item {
+        background: rgb(169, 2, 2);
+        color: white;
+        padding: 8px 22px;
+    }
+    
+    .timer__number {
+        font-size: 28px;
+    }
+        /* ------------------------------ Contacts ------------------------------ */
+    .contacts__bcg {
+        background-size: 34% 60%;
+    }
+        /* ------------------------------ ProductCards ------------------------------ */
+    .product__card {
+        min-width: 380px;
+    }
+    
+    .product__card__image {
+        width: 350px;
+    }
+    
+    .product__card__image .image {
+        height: 350px;
+    }
+    
+    .product__card__details {
+        width: 76%;
+    }
+        /* ------------------------------ Product ------------------------------ */
+    .product__wrapper {
+        gap: 3%;
+        padding: 30px;
+    }
+    
+    .product__imgs {
+        gap: 10px;
+        align-self: center;
+    }
+    
+    .product__img {
+        width: 200px;
+    }
+        /* ------------------------------ Cart ------------------------------ */
+    
+    .cart__item {
+        min-width: 500px;    
+    }
+    
+    .cart__item__info {
+        font-size: 12px;
+    }
+        /* ------------------------------ Modal ------------------------------ */
+    
+    .modal__wrapper {
+        height: 40%;
+    }
+    }

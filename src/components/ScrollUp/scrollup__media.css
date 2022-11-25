@@ -1,0 +1,11 @@
+@media (max-width: 1025px ) {
+    .scrollup__img {
+        height: 40px;
+    } 
+}
+
+@media (max-width: 769px ) {
+    .scrollup__img {
+        height: 35px;
+    } 
+}

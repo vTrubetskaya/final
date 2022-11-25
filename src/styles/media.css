@@ -1,0 +1,116 @@
+/* ------------------------------ 1280px ------------------------------ */
+@media (max-width: 1281px) {
+    /* ------------------------------ HomePage ------------------------------ */
+.homepage__logo {
+    margin-top: calc(100% - 106%);
+}
+
+.homepage__toTree__img,
+.homepage__toBlog__img {
+    height: 420px;
+}
+
+.homepage__logo__img {
+    height: 120px;
+} 
+    /* ------------------------------ Contacts ------------------------------ */
+.contacts__bcg {
+    background-size: 31% 74%;
+}
+    /* ------------------------------ ProductCards ------------------------------ */
+.product__card {
+    min-width: 330px;
+}
+
+.product__card__image {
+    width: 310px;
+}
+
+.product__card__image .image {
+    height: 350px;
+}
+
+.product__card__details {
+    width: 86%;
+}
+    /* ------------------------------ Cart ------------------------------ */
+.cart__container {
+    gap: 2.5%;
+}
+
+.cart__item {
+    min-width: 750px;    
+}
+    /* ------------------------------ Modal ------------------------------ */
+
+.modal__wrapper {
+    width: 600px;
+}
+}
+
+/* ------------------------------ 1152px ------------------------------ */
+
+@media (max-width: 1153px) {
+    /* ------------------------------ HomePage ------------------------------ */
+.homepage__logo {
+    margin-top: calc(100% - 106.5%);
+}
+.homepage__toTree__img,
+.homepage__toBlog__img {
+    height: 395px;
+}
+.homepage__logo__img {
+    height: 110px;
+} 
+    /* ------------------------------ Contacts ------------------------------ */
+.contacts__bcg {
+    background-size: 31% 64%;
+}
+    /* ------------------------------ ProductCards ------------------------------ */
+.product__card {
+    min-width: 290px;
+}
+
+.product__card__image {
+    width: 290px;
+}
+
+.product__card__image .image {
+    height: 330px;
+}
+    /* ------------------------------ Product ------------------------------ */
+.product__wrapper {
+    gap: 5%;
+}
+
+.product__imgs {
+    gap: 10px;
+    align-self: center;
+}
+
+.product__img {
+    width: 210px;
+}
+    /* ------------------------------ Cart ------------------------------ */
+
+.cart__item {
+    min-width: 650px;    
+}
+    /* ------------------------------ Modal ------------------------------ */
+
+.modal__wrapper {
+    width: 550px;
+}
+}
+
+
+/* ------------------------------ 900px ------------------------------ */
+@media (max-width: 900px) {    
+.burger {
+    display: block;
+}
+    
+.nav__none {
+    display: none;
+}
+}

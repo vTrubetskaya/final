@@ -1,0 +1,46 @@
+.scrollup__img {
+    height: 50px;
+} 
+
+.scrollUp {
+    position: relative;
+}
+
+.scroll__position {
+    position: fixed;
+    bottom: 40px;
+    right: 25px;
+    z-index: 20;
+}
+
+.scroll__style {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    animation: movebtn 3s ease-in-out infinite;
+    transition: all .3s ease-in-out;
+  }
+
+.scroll__style:hover{
+    animation: none;
+    background-color: white;
+}
+
+@keyframes movebtn {
+0%{
+    transform: translateY(0px);
+}
+25%{
+    transform: translateY(7px);
+}
+50%{
+    transform: translateY(0px);
+}
+75%{
+    transform: translateY(-7px);
+}
+100%{
+    transform: translateY(0px);
+}
+}

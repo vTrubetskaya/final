@@ -1,0 +1,133 @@
+@media (max-width: 769px) {    
+    /* ------------------------------ HomePage ------------------------------ */
+.homepage__logo {
+    height: 330px;
+    margin-top: calc(100% - 108.5%);     
+}
+    
+.homepage__toTree__info,
+.homepage__toBlog__info {
+    font-size: 18px;
+}
+
+.timer {
+    height: 200px;
+}
+
+.timer__title {
+    font-size: 28px;
+}
+
+    /* ------------------------------ AboutUs ------------------------------ */
+.aboutus__box__info,
+.aboutus__box2__info {    
+    margin: 0px;
+}
+
+.img1 {
+    display: none;
+}
+
+.aboutus__box__info,
+.aboutus__box2__info {
+    font-size: 18px;
+}
+    
+    /* ------------------------------ Contacts ------------------------------ */
+.contacts__bcg {
+    background-size: 44% 50%;
+}
+
+.contacts__box__title {
+    font-size: 24px;
+}
+
+.contacts__content {
+    font-size: 18px;
+}
+
+    /* ------------------------------ Blog ------------------------------ */ 
+.blog__item {
+    padding: 15px 5px;
+}
+
+.blog__item__info {
+    font-size: 17px;
+}
+
+    /* ------------------------------ Post ------------------------------ */
+.post__info {
+    padding: 0px;
+}
+
+.post__img {
+    width: 230px;
+}
+
+.goBack {
+    font-size: 12px;
+}
+    
+    /* ------------------------------ Catalog ------------------------------ */
+.catalog__info {    
+    font-size: 14px;
+    padding: 10px 5px;
+}
+    
+.category__wrapper {
+    flex-direction: column;
+}
+        
+.category__btn {
+    font-size: 14px;
+}
+
+    /* ------------------------------ ProductCards ------------------------------ */
+.product__card {
+    min-width: 100%;
+}
+    
+.product__card__image {
+    width: 350px;
+}
+    
+.product__card__image .image {
+    height: 390px;
+}
+
+.product__card__title {
+    font-size: 18px;
+}
+
+.product__card__details {
+    width: 55%;
+}
+
+.product__card__btn {
+    height: 25px;
+}
+    /* ------------------------------ Product ------------------------------ */
+.product__wrapper {
+    gap: 5%;
+    padding: 30px 5px;
+}
+    
+.product__img {
+    width: 230px;
+}
+
+    /* ------------------------------ Cart ------------------------------ */
+.cart__item__info {
+    font-size: 12px;
+}
+
+.cart__item__del {
+    height: 25px;
+}
+
+    /* ------------------------------ Modal ------------------------------ */    
+.modal__wrapper {
+    height: 40%;
+    width: 60%;
+}
+}

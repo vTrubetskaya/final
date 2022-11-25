@@ -1,0 +1,791 @@
+{
+    "categories":[
+        "wreaths",
+        "ornaments",
+        "garlands",
+        "candles",
+        "decor accents",
+        "outdoor"
+    ],
+
+    "category": [
+        {
+            "id": "0",
+            "products": [
+                {
+                    "id": "1",
+                    "price": "1390",
+                    "title": "Merry Winterberry Forest Foliage",
+                    "category": "wreaths",
+                    "description": "Add instant warmth to celebrations in and out of your home. Lifelike magnolia leaves and faux succulents bring an organic look, while pops of red make this collection a lively accent to your holidays.",
+                    "imgs": {
+                        "1":"/imgs/WRG-2141013_Outdoor-Magnolia-Ridge-Wreath_28in_SSC.jpg", 
+                        "2":"/imgs/WRG-2141013_Outdoor-Magnolia-Ridge-Foliage_Lifestyle-10.jpg"
+                    }
+                },
+                {
+                    "id": "16",
+                    "price": "99",
+                    "title": "Fresh Cedar Pepperberry Lane Foliage",
+                    "category": "wreaths",
+                    "description": "Add a dash of natural beauty and fragrance to your holiday decorating. Real, vivid foliage makes for aromatic accents around the home.",
+                    "imgs": {
+                        "1":"/imgs/WRG-2241017_Fresh-Cedar-Pepperberry-Lane-Wreath_24in_Unlit_SSC.jpg", 
+                        "2":"/imgs/WRG-2241017_Fresh-Cedar-Pepperberry-Lane-Foliage_Detail.jpg"
+                    }
+                },
+                {
+                    "id": "17",
+                    "price": "149",
+                    "title": "Outdoor Magnolia Leaves Foliage",
+                    "category": "wreaths",
+                    "description": "Bring elegance and warmth to your year-round display with lifelike magnolia foliage. Decorate mantels, porches, and al fresco spaces for a timeless look.",
+                    "imgs": {
+                        "1":"/imgs/WRG-2211001_Outdoor-Magnolia-Leaves-Wreath_SSC.jpg", 
+                        "2":"/imgs/WRG-2211001_Outdoor-Magnolia-Leaves-Foliage_Lifestyle-10.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "products": [
+                {
+                    "id": "2",
+                    "price": "169",
+                    "title": "Brilliant Bordeaux Ornament Set",
+                    "category": "ornaments",
+                    "description": "Display the most stunning ornaments that highlight your holiday style through our wide selection of Christmas ornament sets. Shop ornament sets made of glass, metal and even fabric or wool.",
+                    "imgs": {
+                        "1":"/imgs/ORN-1741001_Brilliant-Bordeaux-Finial-Ornament-Set-6-Pieces_SSC-40.jpg", 
+                        "2":"/imgs/ORN-1741001_Brilliant-Bordeaux-Ornament-Set_Lifestyle-20.jpg"
+                    }
+                },
+                {
+                    "id": "3",
+                    "price": "205",
+                    "title": "Jumbo Mercury Glass Ornament Set",
+                    "category": "ornaments",
+                    "description": "Display the most stunning ornaments that highlight your holiday style through our wide selection of Christmas ornament sets. Shop ornament sets made of glass, metal and even fabric or wool.",
+                    "imgs": {
+                        "1":"/imgs/ORN-2241001_Green-BH-Essentials-Jumbo-Mercury-Glass-Ornaments_Set-of-12_SSC.jpg", 
+                        "2":"/imgs/ORN-2041002_BH-Essentials-Mercury-Glass-Ornament-Set_Lifestyle-55.jpg"
+                    }
+                },
+                {
+                    "id": "12",
+                    "price": "89",
+                    "title": "Star Beaded Tree Topper",
+                    "category": "ornaments",
+                    "description": "Crown your Christmas tree with glittering elegance. This collection brings a beautiful, embellished touch to your holiday decorating.",
+                    "imgs": {
+                        "1":"/imgs/ORN-1741020_Classic-Star-Beaded-Tree-Topper_SSC-10.jpg", 
+                        "2":"/imgs/ORN-1741020_Classic-Star-Beaded-Tree-Topper_Closeup-30.jpg"
+                    }
+                },
+                {
+                    "id": "13",
+                    "price": "79",
+                    "title": "Alpine Adventure Ornament Set",
+                    "category": "ornaments",
+                    "description": "Bring on the winter fun with adorable additions to your woodland menagerie. These dressed-up critters are a delightful sight on your tree or seasonal greenery.",
+                    "imgs": {
+                        "1":"/imgs/ORN-2241017_Alpine-Adventure-Ornament-Set_Lifestyle-15.jpg", 
+                        "2":"/imgs/ORN-2241017_Alpine-Adventure-Bears-Felt-Ornaments_Set-of-6_SSC.jpg"
+                    }
+                },
+                {
+                    "id": "27",
+                    "price": "65",
+                    "title": "Snowflake Lighted Tree Topper",
+                    "category": "ornaments",
+                    "description": "Made using classic handcrafting techniques and natural capiz shells, our snowflake tree topper lends an elegant touch to your Christmas décor. It is pre-lit with LED lights and features a double-sided design to make it shine from any angle. Beautiful during the day and even more enchanting at night, this Christmas tree topper puts the finishing touch to your holiday display.",
+                    "imgs": {
+                        "1":"/imgs/ORN-1741017_10in-Capiz-Snowflake-Lighted-Tree-Topper_SSC-10.jpg", 
+                        "2":"/imgs/ORN-2041004_Burnished-Metals-Ornament-Set_Lifestyle-30.jpg"
+                    }
+                },
+                {
+                    "id": "28",
+                    "price": "119",
+                    "title": "Blue Glass Ornament Set",
+                    "category": "ornaments",
+                    "description": "Go bigger and merrier with your Christmas décor. Hang these holiday must-haves on the tree with your favorite ornaments, or set as bowl fillers for an elegant, timeless touch.",
+                    "imgs": {
+                        "1":"/imgs/ORN-2241001_Light-Blue-BH-Essentials-Jumbo-Mercury-Glass-Ornaments_Set-of-12_SSC.jpg", 
+                        "2":"/imgs/ORN-2241001_Blue-BH-Essentials-Jumbo-Mercury-Glass-Ornaments_Set-of-24_SSC.jpg"
+                    }
+                },
+                {
+                    "id": "29",
+                    "price": "89",
+                    "title": "Feathered Ornament Set",
+                    "category": "ornaments",
+                    "description": "Let your decorating ideas fly with these adorable critters. Hang on the tree and other greenery, or mix with other whimsical accents for an enchanting woodland theme.",
+                    "imgs": {
+                        "1":"/imgs/ORN-2241009_Feathered-Friends-Ornaments_Set-of-12_SSC.jpg", 
+                        "2":"/imgs/ORN-2241009_Feathered-Friends-Ornament-Set_Lifestyle-10.jpg"
+                    }
+                },
+                {
+                    "id": "30",
+                    "price": "75",
+                    "title": "Christmas Angel Tree Topper",
+                    "category": "ornaments",
+                    "description": "Christmas Angel Tree Topper captures the essence of the kindly figure from which it draws inspiration. With a flowing burgundy and green dress, the angel looks poised for flight. Handcrafted by seasoned artisans, our Christmas Angel Tree topper is not only a stunning accent for your tree, it can also be displayed on your tabletops and mantels. Its classic look, rich colors, and expressive features make it a holiday treasure for years to come.",
+                    "imgs": {
+                        "1":"/imgs/4001354_Christmas-Angel-Tree-Topper_SSC-10.jpg", 
+                        "2":"/imgs/4001354_Christmas-Angel-Tree-Topper_Lifestyle-20.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "products": [
+                {
+                    "id": "4",
+                    "price": "99",
+                    "title": "Mercury Glass Tree Scented Candles",
+                    "category": "candles",
+                    "description": "Create a welcoming ambience with the warm glow of Christmas candles and seasonal aromas.",
+                    "imgs": {
+                        "1":"/imgs/CDL-2241005_Green-Balsam-Cedar-Mercury-Glass-Tree-Candles_Set-of-2_SSC.jpg", 
+                        "2":"/imgs/CDL-2241005_Green-Balsam-Cedar-Mercury-Glass-Tree-Candles_Set-of-2_Closeup-20.jpg"
+                    }
+                },
+                {
+                    "id": "14",
+                    "price": "69",
+                    "title": "Miracle Flame LED Birch Candle",
+                    "category": "candles",
+                    "description": "Add a rustic glow to any room in an instant. Real birch wrapping brings a natural touch to your décor.",
+                    "imgs": {
+                        "1":"/imgs/CDL-2041005_3inx-8in-Miracle-Flame-LED-Birch-Candle_SSC.jpg", 
+                        "2":"/imgs/CDL-2041005_Miracle-Flame-LED-Birch-Candle_Lifestyle-10.jpg"
+                    }
+                },
+                {
+                    "id": "15",
+                    "price": "69",
+                    "title": "Metallic Nouveau Wax Pillar Candles",
+                    "category": "candles",
+                    "description": "Bring mindfulness to the busy everyday pace with beautiful pillar candles. Arrange as a tiered collection to cast a gentle glow throughout your home.",
+                    "imgs": {
+                        "1":"/imgs/CDL-2241007_Red-Metallic-Nouveau-Unscented-Wax-Pillar-Candles_Set-of-3_SSC.jpg", 
+                        "2":"/imgs/CDL-2241007_Metallic-Nouveau-Wax-Pillar-Candles_Lifestyle-10.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "products": [
+                {
+                    "id": "23",
+                    "price": "99",
+                    "title": "Berry Branches",
+                    "category": "decor accents",
+                    "description": "Add a little merry to garlands, wreaths, and Christmas trees with berry branches. Designed with bendable stems, these versatile holiday accents create festive arrangements on your mantel or tabletops.",
+                    "imgs": {
+                        "1":"/imgs/WRG-2141034_Lit-Sugared-Red-Berry-Branches_Set-of-3_LEDCF_SSC.jpg", 
+                        "2":"/imgs/WRG-2141034_Lit-Sugared-Red-Berry-Branches_Set-of-3_LEDCF_Closeup-20.jpg"
+                    }
+                },
+                {
+                    "id": "24",
+                    "price": "79",
+                    "title": "Twig Branches",
+                    "category": "decor accents",
+                    "description": "Play up the natural look of your Christmas tree, wreath, and garland. Pre-lit with LED lights, these frosted twig branches add shimmering winter beauty to your holiday decorating.",
+                    "imgs": {
+                        "1":"/imgs/WRG-2141035_Lit-Snowy-Twig-Branches_Set-of-3_LEDCF_SSC.jpg", 
+                        "2":"/imgs/WRG-2141034_Berry-Branches_Lifestyle-10.jpg"
+                    }
+                },
+                {
+                    "id": "25",
+                    "price": "49",
+                    "title": "Musical Snow Globe",
+                    "category": "decor accents",
+                    "description": "Relive your favorite holiday memories with these delightful winter scenes and festive melodies. A gentle shake is all it takes to make the scenery come alive with enchanting flurries. Whether placed on your mantel or given as a present to a loved one, our musical snow globes will add Christmas cheer to your celebrations.",
+                    "imgs": {
+                        "1":"/imgs/FGC-1841001_Village-Snowman-Musical-Snow-Globe_SSC-30.jpg", 
+                        "2":"/imgs/FGC-1841001_Village-Snowman-Musical-Snow-Globe_Closeup-10.jpg"
+                    }
+                },
+                {
+                    "id": "26",
+                    "price": "119",
+                    "title": "Wooden Mantel Village",
+                    "category": "decor accents",
+                    "description": "Brighten up your holiday decorating with Victorian-era charm. With its natural color and built-in lights, this miniature Christmas village brings a beautiful glow to mantels, windows, or tabletops.",
+                    "imgs": {
+                        "1":"/imgs/FGC-1941008_Wooden-Christmas-Mantel-Village_SSC.jpg", 
+                        "2":"/imgs/FGC-1941008_Wooden-Christmas-Mantel-Village_Closeup-10.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "products": [
+                {
+                    "id": "5",
+                    "price": "280",
+                    "title": "Outdoor Lit Wire Sculptures Set",
+                    "category": "outdoor",
+                    "description": "Weave some magic into your decorating with glowing fairy light sculptures. Arrange these all-weather wicker accents together or individually to give your outdoor spaces a contemporary look that lasts through the seasons.",
+                    "imgs": {
+                        "1":"/imgs/OUT-2041001_Outdoor-LED-Wire-Orbs_Set-of-2_SSC.jpg", 
+                        "2":"/imgs/OUT-2041001_Outdoor-LED-Wire-Sculptures_Lifestyle-25.jpg"
+                    }
+                },
+                {
+                    "id": "18",
+                    "price": "89",
+                    "title": "Outdoor Lit Stars",
+                    "category": "outdoor",
+                    "description": "Transform any outdoor space into a heavenly setting. These versatile LED stars add a charming glow to quiet evenings and special celebrations.",
+                    "imgs": {
+                        "1":"/imgs/OUT-2141002_Classic-Outdoor-LED-Stars_Set-of-3_SSC.jpg", 
+                        "2":"/imgs/WRG-2141033_Outdoor-Super-Bright-Wreath_Lifestyle-10.jpg"
+                    }
+                },
+                {
+                    "id": "19",
+                    "price": "119",
+                    "title": "Outdoor Lit Holiday Lanterns",
+                    "category": "outdoor",
+                    "description": "Brighten up your pathways or entryways this holiday season with our beautiful Christmas lanterns. A sturdy metal frame in a festive red hue is cut in a snowflake design, while the warm glow of an LED light radiates through speckled glass.",
+                    "imgs": {
+                        "1":"/imgs/CDL-1841003_Outdoor-LED-Holiday-Lanterns-Set-of-2_SSC-10.jpg", 
+                        "2":"/imgs/WRG-2041005_Outdoor-Berry-Burst-Foliage_Lifestyle-15.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "products": [
+                {
+                    "id": "20",
+                    "price": "89",
+                    "title": "Star Garland",
+                    "category": "garlands",
+                    "description": "Light up your holiday display with the iridescent glow of capiz stars. Drape this elegant garland on the tree or mantel to add an enchanting glow to your Christmas evenings.",
+                    "imgs": {
+                        "1":"/imgs/ORN-2041010_Capiz-Star-Lighted-Garland_Closeup-10.jpg", 
+                        "2":"/imgs/ORN-2041010_Capiz-Star-Lighted-Garland_SSC.jpg"
+                    }
+                },
+                {
+                    "id": "21",
+                    "price": "89",
+                    "title": "Vintage Beaded Garlands",
+                    "category": "garlands",
+                    "description": "Add natural tones and texture to your tree with Christmas garlands. Drape chains of glass or wooden beads with other vintage accents for a classic Christmas look.",
+                    "imgs": {
+                        "1":"/imgs/ORN-2041015_Red-Felt-&-Wood-Garlands-Set-of-3_Closeup-10.jpg", 
+                        "2":"/imgs/ORN-2041003_BH-Essentials-Swirl-Ornament-Set_Lifestyle-40.jpg"
+                    }
+                },
+                {
+                    "id": "22",
+                    "price": "39",
+                    "title": "Speckled Feather Garland",
+                    "category": "garlands",
+                    "description": "Accentuate your spaces for the holidays with a touch of nature. Drape on the tree or set along the mantel for a unique and memorable look.",
+                    "imgs": {
+                        "1":"/imgs/ORN-2241010_Speckled-Feather-Garland_Set-of-2_Closeup-10.jpg", 
+                        "2":"/imgs/ORN-2241010_Speckled-Feather-Garland_Set-of-2_SSC.jpg"
+                    }
+                }
+            ]
+        }
+    ],
+
+    "trees":[
+        {
+            "id": "6",
+            "price": "500",
+            "title": "Alpine Fir® Tree",
+            "category": "xmas-trees",
+            "description": "We design our Christmas trees with thoughtful details, prioritizing convenience and longevity for a holiday centerpiece you can enjoy season after season. We’re committed to providing you with the best artificial Christmas trees that suit your style and space with various foliage types, sizes, shapes, and setup options.",
+            "imgs": {
+                "1":"/imgs/ABF-T_Alpine-Balsam-Fir_Unlit_SSC-40.jpg", 
+                "2":"/imgs/ACT-T-UK_Alpine-Christmas-Tree_Unlit_Closeup-10.jpg"
+            }
+        },
+        {
+            "id": "7",
+            "price": "1000",
+            "title": "Vermont White Spruce®",
+            "category": "xmas-trees",
+            "description": "We design our Christmas trees with thoughtful details, prioritizing convenience and longevity for a holiday centerpiece you can enjoy season after season. We’re committed to providing you with the best artificial Christmas trees that suit your style and space with various foliage types, sizes, shapes, and setup options.",
+            "imgs": {
+                "1":"/imgs/VWS-T_Vermont-White-Spruce_LEDCA_SSC-10.jpg", 
+                "2":"/imgs/VWS-T_Vermont-White-Spruce_LEDCA_Closeup-10.jpg"
+            }
+        },
+        {
+            "id": "8",
+            "price": "849",
+            "title": "Frosted Fraser Fir®",
+            "category": "xmas-trees",
+            "description": "We design our Christmas trees with thoughtful details, prioritizing convenience and longevity for a holiday centerpiece you can enjoy season after season. We’re committed to providing you with the best artificial Christmas trees that suit your style and space with various foliage types, sizes, shapes, and setup options.",
+            "imgs": {
+                "1":"/imgs/FRA-FN_BH-Frosted-Fraser-Fir_LEDCPLUSC_SSC.jpg", 
+                "2":"/imgs/FRA-FN_BH-Frosted-Fraser-Fir_LEDCPLUSC_Closeup-10.jpg"
+            }
+        },
+        {
+            "id": "9",
+            "price": "1099",
+            "title": "Red Spruce Slim® Flip Tree®",
+            "category": "xmas-trees",
+            "description": "We design our Christmas trees with thoughtful details, prioritizing convenience and longevity for a holiday centerpiece you can enjoy season after season. We’re committed to providing you with the best artificial Christmas trees that suit your style and space with various foliage types, sizes, shapes, and setup options.",
+            "imgs": {
+                "1":"/imgs/RSS-F2_Red-Spruce-Slim-Flip-Tree_Clear_SSC-10.jpg", 
+                "2":"/imgs/RSS-T_Red Spruce Slim_LEDCC_CloseUp-10.jpg"
+            }
+        },
+        {
+            "id": "10",
+            "price": "1499",
+            "title": "Life-Size Santa with Lantern",
+            "category": "xmas-trees",
+            "description": "Let Santa shine a cheery light on your holiday gatherings. Set this life-sized Saint Nicholas by your entryways to welcome guests, or in the family room as a delightful backdrop for your gift-giving traditions.",
+            "imgs": {
+                "1":"/imgs/FGC-2041006_6ft-Life-Size-Santa-with-Christmas-Candle-Tree_SSC.png", 
+                "2":"/imgs/FGC-2041006_6ft-Life-Size-Santa-with-Christmas-Candle-Tree_Closeup-20.png"
+            }
+        },
+        {
+            "id": "11",
+            "price": "899",
+            "title": "Peek-A-Boo Polar Bear Tree",
+            "category": "xmas-trees",
+            "description": "Put a fun twist on your holiday decorating. Polar bear cubs hugging the tree bring an overload of cuteness and charm to any space.",
+            "imgs": {
+                "1":"/imgs/FGC-2041003_72in-Peek-A-Boo-Polar-Bear-Tree_SSC.jpg", 
+                "2":"/imgs/FGC-2041003_72in-Peek-A-Boo-Polar-Bear-Tree_Closeup-10.jpg"
+            }
+        }
+    ],
+
+    "data":[
+    
+    {
+        "id": "1",
+        "price": "1390",
+        "title": "Merry Winterberry Forest Foliage",
+        "category": "wreaths",
+        "description": "Add instant warmth to celebrations in and out of your home. Lifelike magnolia leaves and faux succulents bring an organic look, while pops of red make this collection a lively accent to your holidays.",
+        "imgs": {
+            "1":"/imgs/WRG-2141013_Outdoor-Magnolia-Ridge-Wreath_28in_SSC.jpg", 
+            "2":"/imgs/WRG-2141013_Outdoor-Magnolia-Ridge-Foliage_Lifestyle-10.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "2",
+        "price": "169",
+        "title": "Brilliant Bordeaux Ornament Set",
+        "category": "ornaments",
+        "description": "Display the most stunning ornaments that highlight your holiday style through our wide selection of Christmas ornament sets. Shop ornament sets made of glass, metal and even fabric or wool.",
+        "imgs": {
+            "1":"/imgs/ORN-1741001_Brilliant-Bordeaux-Finial-Ornament-Set-6-Pieces_SSC-40.jpg", 
+            "2":"/imgs/ORN-1741001_Brilliant-Bordeaux-Ornament-Set_Lifestyle-20.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "3",
+        "price": "205",
+        "title": "Jumbo Mercury Glass Ornament Set",
+        "category": "ornaments",
+        "description": "Display the most stunning ornaments that highlight your holiday style through our wide selection of Christmas ornament sets. Shop ornament sets made of glass, metal and even fabric or wool.",
+        "imgs": {
+            "1":"/imgs/ORN-2241001_Green-BH-Essentials-Jumbo-Mercury-Glass-Ornaments_Set-of-12_SSC.jpg", 
+            "2":"/imgs/ORN-2041002_BH-Essentials-Mercury-Glass-Ornament-Set_Lifestyle-55.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "4",
+        "price": "99",
+        "title": "Mercury Glass Tree Scented Candles",
+        "category": "candles",
+        "description": "Create a welcoming ambience with the warm glow of Christmas candles and seasonal aromas.",
+        "imgs": {
+            "1":"/imgs/CDL-2241005_Green-Balsam-Cedar-Mercury-Glass-Tree-Candles_Set-of-2_SSC.jpg", 
+            "2":"/imgs/CDL-2241005_Green-Balsam-Cedar-Mercury-Glass-Tree-Candles_Set-of-2_Closeup-20.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "5",
+        "price": "280",
+        "title": "Outdoor Lit Wire Sculptures Set",
+        "category": "outdoor",
+        "description": "Weave some magic into your decorating with glowing fairy light sculptures. Arrange these all-weather wicker accents together or individually to give your outdoor spaces a contemporary look that lasts through the seasons.",
+        "imgs": {
+            "1":"/imgs/OUT-2041001_Outdoor-LED-Wire-Orbs_Set-of-2_SSC.jpg", 
+            "2":"/imgs/OUT-2041001_Outdoor-LED-Wire-Sculptures_Lifestyle-25.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "6",
+        "price": "500",
+        "title": "Alpine Fir® Tree",
+        "category": "xmas-trees",
+        "description": "We design our Christmas trees with thoughtful details, prioritizing convenience and longevity for a holiday centerpiece you can enjoy season after season. We’re committed to providing you with the best artificial Christmas trees that suit your style and space with various foliage types, sizes, shapes, and setup options.",
+        "imgs": {
+            "1":"/imgs/ABF-T_Alpine-Balsam-Fir_Unlit_SSC-40.jpg", 
+            "2":"/imgs/ACT-T-UK_Alpine-Christmas-Tree_Unlit_Closeup-10.jpg"
+        },
+        "rate": "4"
+    },
+    {
+        "id": "7",
+        "price": "1000",
+        "title": "Vermont White Spruce®",
+        "category": "xmas-trees",
+        "description": "We design our Christmas trees with thoughtful details, prioritizing convenience and longevity for a holiday centerpiece you can enjoy season after season. We’re committed to providing you with the best artificial Christmas trees that suit your style and space with various foliage types, sizes, shapes, and setup options.",
+        "imgs": {
+            "1":"/imgs/VWS-T_Vermont-White-Spruce_LEDCA_SSC-10.jpg", 
+            "2":"/imgs/VWS-T_Vermont-White-Spruce_LEDCA_Closeup-10.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "8",
+        "price": "849",
+        "title": "Frosted Fraser Fir®",
+        "category": "xmas-trees",
+        "description": "We design our Christmas trees with thoughtful details, prioritizing convenience and longevity for a holiday centerpiece you can enjoy season after season. We’re committed to providing you with the best artificial Christmas trees that suit your style and space with various foliage types, sizes, shapes, and setup options.",
+        "imgs": {
+            "1":"/imgs/FRA-FN_BH-Frosted-Fraser-Fir_LEDCPLUSC_SSC.jpg", 
+            "2":"/imgs/FRA-FN_BH-Frosted-Fraser-Fir_LEDCPLUSC_Closeup-10.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "9",
+        "price": "1099",
+        "title": "Red Spruce Slim® Flip Tree®",
+        "category": "xmas-trees",
+        "description": "We design our Christmas trees with thoughtful details, prioritizing convenience and longevity for a holiday centerpiece you can enjoy season after season. We’re committed to providing you with the best artificial Christmas trees that suit your style and space with various foliage types, sizes, shapes, and setup options.",
+        "imgs": {
+            "1":"/imgs/RSS-F2_Red-Spruce-Slim-Flip-Tree_Clear_SSC-10.jpg", 
+            "2":"/imgs/RSS-T_Red Spruce Slim_LEDCC_CloseUp-10.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "10",
+        "price": "1499",
+        "title": "Life-Size Santa with Lantern",
+        "category": "xmas-trees",
+        "description": "Let Santa shine a cheery light on your holiday gatherings. Set this life-sized Saint Nicholas by your entryways to welcome guests, or in the family room as a delightful backdrop for your gift-giving traditions.",
+        "imgs": {
+            "1":"/imgs/FGC-2041006_6ft-Life-Size-Santa-with-Christmas-Candle-Tree_SSC.png", 
+            "2":"/imgs/FGC-2041006_6ft-Life-Size-Santa-with-Christmas-Candle-Tree_Closeup-20.png"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "11",
+        "price": "899",
+        "title": "Peek-A-Boo Polar Bear Tree",
+        "category": "xmas-trees",
+        "description": "Put a fun twist on your holiday decorating. Polar bear cubs hugging the tree bring an overload of cuteness and charm to any space.",
+        "imgs": {
+            "1":"/imgs/FGC-2041003_72in-Peek-A-Boo-Polar-Bear-Tree_SSC.jpg", 
+            "2":"/imgs/FGC-2041003_72in-Peek-A-Boo-Polar-Bear-Tree_Closeup-10.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "12",
+        "price": "89",
+        "title": "Star Beaded Tree Topper",
+        "category": "ornaments",
+        "description": "Crown your Christmas tree with glittering elegance. This collection brings a beautiful, embellished touch to your holiday decorating.",
+        "imgs": {
+            "1":"/imgs/ORN-1741020_Classic-Star-Beaded-Tree-Topper_SSC-10.jpg", 
+            "2":"/imgs/ORN-1741020_Classic-Star-Beaded-Tree-Topper_Closeup-30.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "13",
+        "price": "79",
+        "title": "Alpine Adventure Ornament Set",
+        "category": "ornaments",
+        "description": "Bring on the winter fun with adorable additions to your woodland menagerie. These dressed-up critters are a delightful sight on your tree or seasonal greenery.",
+        "imgs": {
+            "1":"/imgs/ORN-2241017_Alpine-Adventure-Ornament-Set_Lifestyle-15.jpg", 
+            "2":"/imgs/ORN-2241017_Alpine-Adventure-Bears-Felt-Ornaments_Set-of-6_SSC.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "14",
+        "price": "69",
+        "title": "Miracle Flame LED Birch Candle",
+        "category": "candles",
+        "description": "Add a rustic glow to any room in an instant. Real birch wrapping brings a natural touch to your décor.",
+        "imgs": {
+            "1":"/imgs/CDL-2041005_3inx-8in-Miracle-Flame-LED-Birch-Candle_SSC.jpg", 
+            "2":"/imgs/CDL-2041005_Miracle-Flame-LED-Birch-Candle_Lifestyle-10.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "15",
+        "price": "69",
+        "title": "Metallic Nouveau Wax Pillar Candles",
+        "category": "candles",
+        "description": "Bring mindfulness to the busy everyday pace with beautiful pillar candles. Arrange as a tiered collection to cast a gentle glow throughout your home.",
+        "imgs": {
+            "1":"/imgs/CDL-2241007_Red-Metallic-Nouveau-Unscented-Wax-Pillar-Candles_Set-of-3_SSC.jpg", 
+            "2":"/imgs/CDL-2241007_Metallic-Nouveau-Wax-Pillar-Candles_Lifestyle-10.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "16",
+        "price": "99",
+        "title": "Fresh Cedar Pepperberry Lane Foliage",
+        "category": "wreaths",
+        "description": "Add a dash of natural beauty and fragrance to your holiday decorating. Real, vivid foliage makes for aromatic accents around the home.",
+        "imgs": {
+            "1":"/imgs/WRG-2241017_Fresh-Cedar-Pepperberry-Lane-Wreath_24in_Unlit_SSC.jpg", 
+            "2":"/imgs/WRG-2241017_Fresh-Cedar-Pepperberry-Lane-Foliage_Detail.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "17",
+        "price": "149",
+        "title": "Outdoor Magnolia Leaves Foliage",
+        "category": "wreaths",
+        "description": "Bring elegance and warmth to your year-round display with lifelike magnolia foliage. Decorate mantels, porches, and al fresco spaces for a timeless look.",
+        "imgs": {
+            "1":"/imgs/WRG-2211001_Outdoor-Magnolia-Leaves-Wreath_SSC.jpg", 
+            "2":"/imgs/WRG-2211001_Outdoor-Magnolia-Leaves-Foliage_Lifestyle-10.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "18",
+        "price": "89",
+        "title": "Outdoor Lit Stars",
+        "category": "outdoor",
+        "description": "Transform any outdoor space into a heavenly setting. These versatile LED stars add a charming glow to quiet evenings and special celebrations.",
+        "imgs": {
+            "1":"/imgs/OUT-2141002_Classic-Outdoor-LED-Stars_Set-of-3_SSC.jpg", 
+            "2":"/imgs/WRG-2141033_Outdoor-Super-Bright-Wreath_Lifestyle-10.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "19",
+        "price": "119",
+        "title": "Outdoor Lit Holiday Lanterns",
+        "category": "outdoor",
+        "description": "Brighten up your pathways or entryways this holiday season with our beautiful Christmas lanterns. A sturdy metal frame in a festive red hue is cut in a snowflake design, while the warm glow of an LED light radiates through speckled glass.",
+        "imgs": {
+            "1":"/imgs/CDL-1841003_Outdoor-LED-Holiday-Lanterns-Set-of-2_SSC-10.jpg", 
+            "2":"/imgs/WRG-2041005_Outdoor-Berry-Burst-Foliage_Lifestyle-15.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "20",
+        "price": "89",
+        "title": "Star Garland",
+        "category": "garlands",
+        "description": "Light up your holiday display with the iridescent glow of capiz stars. Drape this elegant garland on the tree or mantel to add an enchanting glow to your Christmas evenings.",
+        "imgs": {
+            "1":"/imgs/ORN-2041010_Capiz-Star-Lighted-Garland_Closeup-10.jpg", 
+            "2":"/imgs/ORN-2041010_Capiz-Star-Lighted-Garland_SSC.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "21",
+        "price": "89",
+        "title": "Vintage Beaded Garlands",
+        "category": "garlands",
+        "description": "Add natural tones and texture to your tree with Christmas garlands. Drape chains of glass or wooden beads with other vintage accents for a classic Christmas look.",
+        "imgs": {
+            "1":"/imgs/ORN-2041015_Red-Felt-&-Wood-Garlands-Set-of-3_Closeup-10.jpg", 
+            "2":"/imgs/ORN-2041003_BH-Essentials-Swirl-Ornament-Set_Lifestyle-40.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "22",
+        "price": "39",
+        "title": "Speckled Feather Garland",
+        "category": "garlands",
+        "description": "Accentuate your spaces for the holidays with a touch of nature. Drape on the tree or set along the mantel for a unique and memorable look.",
+        "imgs": {
+            "1":"/imgs/ORN-2241010_Speckled-Feather-Garland_Set-of-2_Closeup-10.jpg", 
+            "2":"/imgs/ORN-2241010_Speckled-Feather-Garland_Set-of-2_SSC.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "23",
+        "price": "99",
+        "title": "Berry Branches",
+        "category": "decor accents",
+        "description": "Add a little merry to garlands, wreaths, and Christmas trees with berry branches. Designed with bendable stems, these versatile holiday accents create festive arrangements on your mantel or tabletops.",
+        "imgs": {
+            "1":"/imgs/WRG-2141034_Lit-Sugared-Red-Berry-Branches_Set-of-3_LEDCF_SSC.jpg", 
+            "2":"/imgs/WRG-2141034_Lit-Sugared-Red-Berry-Branches_Set-of-3_LEDCF_Closeup-20.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "24",
+        "price": "79",
+        "title": "Twig Branches",
+        "category": "decor accents",
+        "description": "Play up the natural look of your Christmas tree, wreath, and garland. Pre-lit with LED lights, these frosted twig branches add shimmering winter beauty to your holiday decorating.",
+        "imgs": {
+            "1":"/imgs/WRG-2141035_Lit-Snowy-Twig-Branches_Set-of-3_LEDCF_SSC.jpg", 
+            "2":"/imgs/WRG-2141034_Berry-Branches_Lifestyle-10.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "25",
+        "price": "49",
+        "title": "Musical Snow Globe",
+        "category": "decor accents",
+        "description": "Relive your favorite holiday memories with these delightful winter scenes and festive melodies. A gentle shake is all it takes to make the scenery come alive with enchanting flurries. Whether placed on your mantel or given as a present to a loved one, our musical snow globes will add Christmas cheer to your celebrations.",
+        "imgs": {
+            "1":"/imgs/FGC-1841001_Village-Snowman-Musical-Snow-Globe_SSC-30.jpg", 
+            "2":"/imgs/FGC-1841001_Village-Snowman-Musical-Snow-Globe_Closeup-10.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "26",
+        "price": "119",
+        "title": "Wooden Mantel Village",
+        "category": "decor accents",
+        "description": "Brighten up your holiday decorating with Victorian-era charm. With its natural color and built-in lights, this miniature Christmas village brings a beautiful glow to mantels, windows, or tabletops.",
+        "imgs": {
+            "1":"/imgs/FGC-1941008_Wooden-Christmas-Mantel-Village_SSC.jpg", 
+            "2":"/imgs/FGC-1941008_Wooden-Christmas-Mantel-Village_Closeup-10.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "27",
+        "price": "65",
+        "title": "Snowflake Lighted Tree Topper",
+        "category": "ornaments",
+        "description": "Made using classic handcrafting techniques and natural capiz shells, our snowflake tree topper lends an elegant touch to your Christmas décor. It is pre-lit with LED lights and features a double-sided design to make it shine from any angle. Beautiful during the day and even more enchanting at night, this Christmas tree topper puts the finishing touch to your holiday display.",
+        "imgs": {
+            "1":"/imgs/ORN-1741017_10in-Capiz-Snowflake-Lighted-Tree-Topper_SSC-10.jpg", 
+            "2":"/imgs/ORN-2041004_Burnished-Metals-Ornament-Set_Lifestyle-30.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "28",
+        "price": "119",
+        "title": "Blue Glass Ornament Set",
+        "category": "ornaments",
+        "description": "Go bigger and merrier with your Christmas décor. Hang these holiday must-haves on the tree with your favorite ornaments, or set as bowl fillers for an elegant, timeless touch.",
+        "imgs": {
+            "1":"/imgs/ORN-2241001_Light-Blue-BH-Essentials-Jumbo-Mercury-Glass-Ornaments_Set-of-12_SSC.jpg", 
+            "2":"/imgs/ORN-2241001_Blue-BH-Essentials-Jumbo-Mercury-Glass-Ornaments_Set-of-24_SSC.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "29",
+        "price": "89",
+        "title": "Feathered Ornament Set",
+        "category": "ornaments",
+        "description": "Let your decorating ideas fly with these adorable critters. Hang on the tree and other greenery, or mix with other whimsical accents for an enchanting woodland theme.",
+        "imgs": {
+            "1":"/imgs/ORN-2241009_Feathered-Friends-Ornaments_Set-of-12_SSC.jpg", 
+            "2":"/imgs/ORN-2241009_Feathered-Friends-Ornament-Set_Lifestyle-10.jpg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "30",
+        "price": "75",
+        "title": "Christmas Angel Tree Topper",
+        "category": "ornaments",
+        "description": "Christmas Angel Tree Topper captures the essence of the kindly figure from which it draws inspiration. With a flowing burgundy and green dress, the angel looks poised for flight. Handcrafted by seasoned artisans, our Christmas Angel Tree topper is not only a stunning accent for your tree, it can also be displayed on your tabletops and mantels. Its classic look, rich colors, and expressive features make it a holiday treasure for years to come.",
+        "imgs": {
+            "1":"/imgs/4001354_Christmas-Angel-Tree-Topper_SSC-10.jpg", 
+            "2":"/imgs/4001354_Christmas-Angel-Tree-Topper_Lifestyle-20.jpg"
+        },
+        "rate": "5"
+    }
+    
+],
+    "dataBlog":[
+    {
+            "id": "0",
+            "title": "Make a Christmas Tune Playlist",
+            "image": "/imgs/pexels-photo-6149048.jpeg",
+            "body": "Christmas music has come a long way over the years—it seems like every major artist has a song or album. Use spotify to create your perfect playlist!",
+            "info": "Whether you are into religious Christmas songs or country Christmas songs, traditional scores or new popular chart toppers, it's the most wonderful time of the year to for a Christmas songs playlist. There's no place like home for the holidays, either, so make sure to play your favorites throughout your home all season long, from 'All I Want for Christmas is You' to 'Jingle Bells'. Some on this list are some of the most played at every shop and on every radio station around, while others are some of the most beautiful but less commonly heard. <br/><br/> 'All I Want For Christmas Is You' by Mariah Carey. <br/> 'Last Christmas' by Wham! <br/> 'Christmas (Baby Please Come Home)' by Darlene Love. <br/> 'Stay Another Day' by East 17. <br/> 'White Christmas' by Bing Crosby. <br/> 'Fairytale of New York' by The Pogues and Kirsty MacColl. <br/> 'Christmas Wrapping' by The Waitresses.",
+            "imgs": {
+                "1":"/imgs/pexels-photo-6149054.jpeg", 
+                "2":"/imgs/pexels-photo-5110849.jpeg"
+            },
+            "rate": "5"
+    },
+    {
+        "id": "1",
+        "title": "Make Homemade Hot Chocolate",
+        "image": "/imgs/pexels-photo-3309748.jpeg",
+        "body": "I’ve tested all the different ways to make Homemade Hot Chocolate and settled on this method as the best. It’s rich, creamy, and easy to make, with intense chocolate flavor. Garnish with whipped cream or marshmallows for a cold weather treat!",
+        "info": "The best hot chocolate always starts with real chopped chocolate! For best results, make sure to use a good quality brand. <br/><br/>  Heat up your whole milk in a small saucepan, and if you’d like, add a smidge of sugar. <br/><br/> If you do not wish to use milk for dietary reasons, I recommend swapping in coconut milk, soy milk, “milk” made from tree nuts, or the non-dairy milk of your choice. While hot water will technically work, it adds no flavor at all which is slightly inferior to the non-dairy options. <br/><br/> Bring the milk to a scalding temperature, which is about 180 degrees F, over medium heat. <br/><br/> Be careful to not let the milk come to a boil, or your end result will be grainy. <br/> When the milk is properly hot, turn off the heat, and add melted bittersweet chocolate straight into the milk (just microwave the chopped chocolate in 30 second intervals, stirring after each time, until melted). <br/><br/>You’ll see that it whisks in beautifully and you end up with a creamy, smooth end result.",
+        "imgs": {
+            "1":"/imgs/pexels-photo-5464634.jpeg", 
+            "2":"/imgs/pexels-photo-5702734.jpeg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "2",
+        "title": "Play secret Santa",
+        "body": "If you have a large family or group of friends, Secret Santa is a perfect way for gift giving that doesn't break the bank. Most games set a spending limit so that you can find cheap Christmas gifts or DIY Christmas gifts that are thoughtful and tailored to the person whose name you picked.",
+        "image": "/imgs/pexels-photo-6194087.jpeg",
+        "info": "The basic concept of the Secret Santa game is simple. All of the participants’ names are placed into a hat, box, etc. and mixed up. Each person then chooses one name from the box, but doesn’t tell anyone which name was picked. He/she is now responsible for buying a gift for the person selected. <br/><br/> When the Secret Santa wraps his/her gift, he/she should label it with the recipient’s name but doesn’t indicate whom the present is from. (Remember, most of the fun is in the secrecy.) All the gifts are then placed in a general area for opening at a designated time. <br/><br/> When the gift-giving time arrives, each recipient finds his/her gift and must guess who their Secret Santa is. If they can’t guess, their Secret Santa eventually confesses." ,
+        "imgs": {
+            "1":"/imgs/pexels-photo-3264663.jpeg", 
+            "2":"/imgs/pexels-photo-3264665.jpeg"
+        },
+        "rate": "5"
+    },
+    {
+        "id": "3",
+        "title": "Make Paper Snowflakes",
+        "body": "Making paper snowflakes is one of those activities for the whole family. You can make some to hang on the tree, decorate presents with others and even stick a few on the windows of your home for the neighbors to see.",
+        "image": "/imgs/pexels-photo-6102526.jpeg",
+        "info": "A few quick snips with the tips of your scissors is all it takes to make a paper snowflake. Start with a square piece of paper—then follow our step-by-step tutorial on how to fold, cut, and create a six-pointed snowflake. Kids can happily occupy themselves by cutting snowflakes out by the dozens. Then adults can step in to help decorate the Christmas tree, gifts, windows, and walls. Together, you can watch your family's own gentle blizzard materialize. <br/><br/> To make a paper snowflake, you need two essential craft supplies: paper and a pair of scissors. When choosing paper, remember: lightweight paper—wrapping paper, tissue paper, or crepe paper—is lighter and easy to cut but more fragile for decorating. Medium to heavy weight paper—butcher paper, card stock, or text-weight poster paper—is harder to cut but is more sturdy for decorating.",
+        "imgs": {
+            "1":"/imgs/pexels-photo-6102189.jpeg", 
+            "2":"/imgs/pexels-photo-258981.jpeg"
+        },
+        "rate": "5"
+    }
+    
+]}
