@@ -159,9 +159,7 @@
     }
         
         /* ------------------------------ Contacts ------------------------------ */
-    .contacts__bcg {
-        background-image: none;
-    }
+
     .contacts__title {
         font-size: 22px;
     }
@@ -288,7 +286,7 @@
     
         /* ------------------------------ Modal ------------------------------ */    
     .modal__wrapper {
-        height: 22%;
+        height: 30%;
         width: 75%;
         padding: 10px 80px;
     }

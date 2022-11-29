@@ -51,10 +51,6 @@
     .timer__number {
         font-size: 28px;
     }
-        /* ------------------------------ Contacts ------------------------------ */
-    .contacts__bcg {
-        background-size: 34% 60%;
-    }
         /* ------------------------------ ProductCards ------------------------------ */
     .product__card {
         min-width: 380px;

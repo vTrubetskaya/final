@@ -34,9 +34,6 @@
 }
     
     /* ------------------------------ Contacts ------------------------------ */
-.contacts__bcg {
-    background-size: 44% 50%;
-}
 
 .contacts__box__title {
     font-size: 24px;
@@ -123,11 +120,5 @@
 
 .cart__item__del {
     height: 25px;
-}
-
-    /* ------------------------------ Modal ------------------------------ */    
-.modal__wrapper {
-    height: 40%;
-    width: 60%;
 }
 }

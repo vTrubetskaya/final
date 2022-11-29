@@ -62,10 +62,6 @@
 .homepage__logo__img {
     height: 110px;
 } 
-    /* ------------------------------ Contacts ------------------------------ */
-.contacts__bcg {
-    background-size: 31% 64%;
-}
     /* ------------------------------ ProductCards ------------------------------ */
 .product__card {
     min-width: 290px;
@@ -113,4 +109,8 @@
 .nav__none {
     display: none;
 }
+}
+
+.modal__text {
+    font-size: 16px;
 }

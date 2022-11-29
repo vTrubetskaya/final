@@ -33,7 +33,7 @@ export const Cart = observer(() => {
                 <div className="cart__total__info">
                     <h2 className="cart__total__title">Total: ${totalPrice} </h2>
                     <button className="cart__total__btn" onClick={openModal}>Pay your order</button>
-                    {visible && <Modal onClose={handleModalClose} content={<h2 className="modal__text">Thank you for the purchase.</h2>} button={<span onClick={delItems}>Pay now</span>}/>}                
+                    {visible && <Modal className="mbcg" onClose={handleModalClose} content={<h2 className="modal__text">Thank you for the purchase.</h2>} button={<span onClick={delItems}>Pay now</span>}/>}                
                 </div>
             </div></div>}
         </div>              
