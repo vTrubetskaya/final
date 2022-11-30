@@ -700,22 +700,6 @@ button:hover {
     text-transform: uppercase;
 }
 
-.modal__white {
-    background-color: white;
-    height: 95%;
-    width: 95%;
-    text-align: center;
-}
-
-.modal2__btn_close {
-    padding: 8px 12px; 
-    background-color: transparent;
-    font-size: 10px;
-    letter-spacing: 2px;
-    border: 1px solid black;       
-    text-transform: uppercase;
-}
-
 /* ------------------------------ AboutUs ------------------------------ */
 
 .aboutus__box,
@@ -778,17 +762,57 @@ button:hover {
     text-align: justify;
 }
 
-.contacts__form__item label {
+.contacts__form__item {
     min-width: 125px;
     font-size: 16px;
 }
 
+.form__wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.form__wrapper textarea,
+.form__wrapper input {
+    width: 300px !important;
+    border-radius: 15px;
+    border: 1px solid black;
+    padding: 2px 14px;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.2);
+    margin-bottom: 14px;
+}
+
+.form__wrapper input {
+    height: 35px;
+}
+
+.form__wrapper textarea {
+    height: 105px !important;
+}
+
+.form__info {
+    font-size: 16px;
+    letter-spacing: 2px;
+    color: rgb(169, 2, 2);    
+    text-transform: uppercase;
+    margin-bottom: 4px;
+}
+
+.form__info i {
+    border: 1px solid rgb(169, 2, 2);
+    border-radius: 50%;
+    padding: 0px 4px;
+    margin-left: 10px;
+}
+
 .contacts__form__btn {
-    padding: 8px 12px;
+    padding: 6px 26px;
     background-color: transparent;
     border-radius: 15px;
     text-transform: uppercase;
     font-size: 12px;
     letter-spacing: 2px;
     border: .5px solid black;
+    align-self: start;
 }

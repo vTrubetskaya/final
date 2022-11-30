@@ -59,6 +59,12 @@
     .timer__number {
         font-size: 18px;
     }
+
+        /* ------------------------------ Contacts ------------------------------ */ 
+    .form__wrapper textarea,
+    .form__wrapper input {
+        width: 245px !important;
+    }
     
         /* ------------------------------ Blog ------------------------------ */ 
     .blog__info {
